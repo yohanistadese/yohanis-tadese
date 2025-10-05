@@ -1,51 +1,35 @@
-
-<h1 align="center">Hi, 👋 I'm Yohanis Tadese</h1>
+<h1 align="center">Hi 👋, I'm Yohanis Tadese</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Full-Stack+Developer;I'm+Frontend+Developer;I'm+Backend+Developer;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Backend+Developer;Python+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
-- 🤝 I’m currently open to **work opportunity as Fullstack developer.**
+---
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 💼 I'm currently open to backend or full-stack developer roles using Python, React and Node.js
+- 💡 I enjoy building clean, scalable, and efficient backend systems  
+- 💬 Reach me on **[LinkedIn](https://www.linkedin.com/in/yohanis-tadese)**  
+- 📧 Email: **yohanistadese06@gmail.com**  
+- ☎️ Call: **+251924316889**
 
-- 📫 May be see my portfolio **https://yohanis.vercel.app**
-  
-- 📫 For Linkedin  **https://www.linkedin.com/in/yohanis-tadese**
-  
-- 📫 Reach me by email **yohanistadese06@gmail.com**
+---
 
-- 📫 Call me **+251984751233**
+### 🧠 Tech Stack
 
-- ⚡ Fun fact **I think am positive and Happy person.**
+#### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,html,css" />
 
-</p>
+#### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mysql,mongodb" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <!-- Frontend -->
-  <h4 align="left">Frontend:</h4>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,css,tailwind,html,typescript" />
-  </a>
+#### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,aws,gcp,figma,vscode" />
 
-  <!-- Backend -->
-  <h4 align="left">Backend:</h4>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mysql,postgres,mongodb" />
-  </a>
+---
 
-  <!-- Tools -->
-  <h4 align="left">Tools:</h4>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,gcp,figma" />
-  </a>
-</p>
+### 📊 GitHub Stats
+| ![Yohanis GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohanis-tadese&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanis-tadese&theme=dark&hide_title=true) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 
+---
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-| My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Yohanis Git Status](https://github-readme-stats.vercel.app/api?username=yohanis-tadese&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanis-tadese&show_icons=true&theme=dark&hide_title=true) | ![yohanis-tadese](https://github-readme-streak-stats.herokuapp.com/?user=yohanis-tadese&theme=dark) |
-
-
-<br>
+⭐ **Fun fact:** I’m a positive, curious, and happy person who loves learning every day!
